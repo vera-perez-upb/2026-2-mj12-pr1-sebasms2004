@@ -1,0 +1,36 @@
+# Carpetas generadas por Quartus
+**/db/
+**/incremental_db/
+**/output_files/
+**/simulation/
+**/greybox_tmp/
+**/hc_output/
+**/dmi/
+**/qdb/
+**/dni/
+
+# Archivos de bloqueo de Quartus
+**/*.flock
+**/*.kvp
+
+# Carpetas y archivos generados por ModelSim/Questa
+**/work/
+**/*.wlf
+**/*.mti
+**/*.mpf
+**/*.do
+**/vsim.wlf
+**/transcript
+
+# Archivos de respaldo y reportes
+**/*.qws
+**/*.rpt
+**/*.summary
+**/*.smsg
+**/*.done
+**/*.qdf
+**/*.jdi
+**/*.pin
+**/*.bak
+**/*.backup
+**/*.cdf
